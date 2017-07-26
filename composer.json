@@ -12,9 +12,5 @@
             "email": "ian.tasker@zinethq.com"
         }
     ],
-    "scripts": {
-        "post-install-cmd": "cp ./{terms,privacy,glossary}.md ../..",
-        "post-update-cmd": "cp ./{terms,privacy,glossary}.md ../.."
-    },
     "require": {}
 }
