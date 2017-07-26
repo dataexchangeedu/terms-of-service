@@ -1,0 +1,25 @@
+{
+    "name": "dataexchangeedu/terms-of-service",
+    "description": "Terms of service for DataExchange (dataexchange.education)",
+    "type": "library",
+    "license": "CCSA4.0",
+    "authors": [{
+            "name": "Jon Nicholson",
+            "email": "jon.nicholson@zinethq.com"
+        },
+        {
+            "name": "Ian Tasker",
+            "email": "ian.tasker@zinethq.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "Composer.php"
+        ]
+    },
+    "scripts": {
+        "post-install-cmd": "cp ./{terms,privacy,glossary}.md ../..",
+        "post-update-cmd": "cp ./{terms,privacy,glossary}.md ../.."
+    },
+    "require": {}
+}
