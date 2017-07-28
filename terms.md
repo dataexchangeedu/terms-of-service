@@ -4,7 +4,8 @@ Please read these Terms of Service carefully and in full before using any of our
 
 While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity.
 
-Last updated: 27 July 2017
+Status: Draft
+Last updated: 28 July 2017
 
 ## What is DataExchange?
 

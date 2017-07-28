@@ -4,7 +4,8 @@ This statement underpins the policies, promises and contracts we make with organ
 
 In conjunction with this document, you should read the [Glossary of Terms](https://dataexchange.education/glossary) used within this statement, and also elsewhere on our site.
 
-Last updated: 27 July 2017
+Status: Draft
+Last updated: 28 July 2017
 
 ## Introduction
 

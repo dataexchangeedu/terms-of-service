@@ -1,5 +1,18 @@
 #!/bin/bash
 
+read -r -p "Status: " status
+
 for md in ./*.md; do
-    sed -i "s/Last updated\:.*/Last updated\: $(date '+%d %B %Y')/g" $md
+    if [ "$md" == "./readme.md" ];
+    then
+        continue
+    fi
+
+    read -r -p "Update $md? [y/N]  " response
+    response=${response,,}    # tolower
+    if [[ "$response" =~ ^(yes|y)$ ]]
+    then
+        sed -i "s/Status\:.*/Status\: $status/g" $md
+        sed -i "s/Last updated\:.*/Last updated\: $(date '+%d %B %Y')/g" $md
+    fi
 done

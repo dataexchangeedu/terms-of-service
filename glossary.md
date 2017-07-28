@@ -2,7 +2,8 @@
 
 This document defines the terms we use throughout our [Terms of Service](https://dataexchange.education/terms), [Privacy Statement](https://dataexchange.education/terms/privacy) and other DataExchange documents. Much of which is based on the UK's [Data Protection Act 1998 (DPA)](https://www.legislation.gov.uk/ukpga/1998/29) and similar definitions.
 
-Last updated: 27 July 2017
+Status: Draft
+Last updated: 28 July 2017
 
 __DataExchange__ is this website, its database and interface, as well as the technology it interfaces with to facilitate data sharing between parties.
 
