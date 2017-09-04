@@ -1,6 +1,6 @@
 # Glossary of Terms
 
-This document defines the terms we use throughout our [Terms of Service](https://dataexchange.education/terms), [Privacy Statement](https://dataexchange.education/terms/privacy) and other DataExchange documents. Much of which is based on the UK's [Data Protection Act 1998 (DPA)](https://www.legislation.gov.uk/ukpga/1998/29) and similar definitions.
+This document defines the terms we use throughout our [Terms of Service](https://dataexchange.education/terms), [Privacy Policy](https://dataexchange.education/terms/privacy) and other DataExchange documents. Much of which is based on the UK's [Data Protection Act 1998 (DPA)](https://www.legislation.gov.uk/ukpga/1998/29) and similar definitions.
 
 Status: Draft
 

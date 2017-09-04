@@ -1,6 +1,6 @@
 # Terms of Service
 
-Please read these Terms of Service carefully and in full before using any of our services. In conjunction with this document, you should also read our [Glossary of Terms](https://dataexchange.education/terms/glossary) and [Privacy Statement](https://dataexchange.education/terms/privacy). If you do not agree to these Terms of Service, you should not use DataExchange.
+Please read these Terms of Service carefully and in full before using any of our services. In conjunction with this document, you should also read our [Glossary of Terms](https://dataexchange.education/terms/glossary) and [Privacy Policy](https://dataexchange.education/terms/privacy). If you do not agree to these Terms of Service, you should not use DataExchange.
 
 While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible.
 
