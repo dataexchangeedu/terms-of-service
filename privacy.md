@@ -5,7 +5,8 @@ This statement underpins the policies, promises and contracts we make with organ
 In conjunction with this document, you should read the [Glossary of Terms](https://dataexchange.education/glossary) used within this statement, and also elsewhere on our site.
 
 Status: Draft
-Last updated: 28 July 2017
+
+Last updated: 04 September 2017
 
 ## Introduction
 
@@ -15,7 +16,7 @@ For further detail, please refer to our full [Terms of Service](https://dataexch
 
 ## Our Principles
 
-__We:__
+### We
 
 * Process data for purposes necessary to provide the DataExchange service and services explicitly deployed to your organisation.
 * Adhere strictly to the terms of the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29) and the [General Data Protection Regulation 2018](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) and any future amendments or applicable legislation.
@@ -28,7 +29,7 @@ __We:__
 * Always notify an organisation prior to deploying an application, inform the organisation what data is required, and allow the request to be accepted or rejected.
 * Make the [Terms of Service](https://dataexchange.education/terms) and this Privacy Policy clearly and publicly available on our website.
 
-__We DO NOT:__
+### We DO NOT
 
 * Store or transport personal or sensitive data outside of the UK, EU or outside of countries which are granted to have [Adequate Levels of Protection](https://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission where the data originates within such a country.
 * Share data with third parties except where explicitly requested by the data controller or required by law.

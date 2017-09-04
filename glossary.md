@@ -3,7 +3,8 @@
 This document defines the terms we use throughout our [Terms of Service](https://dataexchange.education/terms), [Privacy Statement](https://dataexchange.education/terms/privacy) and other DataExchange documents. Much of which is based on the UK's [Data Protection Act 1998 (DPA)](https://www.legislation.gov.uk/ukpga/1998/29) and similar definitions.
 
 Status: Draft
-Last updated: 28 July 2017
+
+Last updated: 04 September 2017
 
 __DataExchange__ is this website, its database and interface, as well as the technology it interfaces with to facilitate data sharing between parties.
 
@@ -72,3 +73,5 @@ __Public Authority__ means a public authority as defined by the Freedom of Infor
 __Relevant Filing System__ means any set of information relating to individuals to the extent that, although the information is not processed by means of equipment operating automatically in response to instructions given for that purpose, the set is structured, either by reference to individuals or by reference to criteria relating to individuals, in such a way that specific information relating to a particular individual is readily accessible.
 
 __Service__ is a software service, tool, artefact, or component (to be) used by the data provider and requires sharing of data, be it installed locally or in the cloud.
+
+__We__ means ZiNET Data Solutions Limited. Registered in England ([08765226](https://beta.companieshouse.gov.uk/company/08765226)).
