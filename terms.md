@@ -6,7 +6,7 @@ While this is an important and legally-binding document, we’ve tried to keep t
 
 Status: Draft
 
-Last updated: 04 September 2017
+Last updated: 05 September 2017
 
 ## What is DataExchange?
 
@@ -20,7 +20,7 @@ These Terms of Service are between you, an institution or vendor, and us, DataEx
 
 Whilst using DataExchange you will send data to us about your institution/company for us to process on your behalf. Institutions at all times remain Data Controllers and DataExchange is the Data Processor. It is your responsibility to ensure that you are able to engage with DataExchange on these terms. You must not connect to the platform if you do not agree with these Terms of Service.
 
-These Terms of Service apply only to DataExchange connectors and DataExchange. DataExchange stores data sent to us, and also stores data which is passed back to it from vendor applications. However, __these terms do not apply to the processing of data by vendor applications that you can connect to DataExchange.__
+These Terms of Service apply only to DataExchange connectors and DataExchange. DataExchange stores data sent to us, and also stores data which is passed back to it from vendor applications. However, __these terms do not apply to the processing of data by vendor applications that you can connect to through DataExchange.__
 
 Vendor applications, whether created by DataExchange or another party, are subject to their own Terms and Conditions and Policies. Before you deploy a vendor application in DataExchange you must also ensure that you read, and agree to, the application’s Terms and Conditions and Policies.
 

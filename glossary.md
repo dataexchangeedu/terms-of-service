@@ -4,7 +4,7 @@ This document defines the terms we use throughout our [Terms of Service](https:/
 
 Status: Draft
 
-Last updated: 04 September 2017
+Last updated: 05 September 2017
 
 __DataExchange__ is this website, its database and interface, as well as the technology it interfaces with to facilitate data sharing between parties.
 

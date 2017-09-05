@@ -6,7 +6,7 @@ In conjunction with this document, you should read the [Glossary of Terms](https
 
 Status: Draft
 
-Last updated: 04 September 2017
+Last updated: 05 September 2017
 
 ## Introduction
 
