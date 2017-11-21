@@ -12,7 +12,7 @@ __User__ is an individual user of DataExchange.
 
 __Organisation__ or __Team__ is a group of users on DataExchange, which may or may not be a legal entity (e.g. registered on Companies House or the DfE in England and Wales).
 
-__Product__ is a definition on DataExcahnge of a service owned by one organisation (the __vendor__) that may be offered to other organisations for use. A product has at least one __Version__ which offer specialisatons to products, e.g. with different features (like 'standard' or 'pro' offerings) or depending on legal restrictions and its availability. A version of a product that is available to your organisation is known as an __Application__. Applications may publish (provide) data to, and/or require (consume) data from, DataExchange.
+__Product__ is a definition on DataExchange of a service owned by one organisation (the __vendor__) that may be offered to other organisations for use. A product has at least one __Version__ which offer specialisatons to products, e.g. with different features (like 'standard' or 'pro' offerings) or depending on legal restrictions and its availability. A version of a product that is available to your organisation is known as an __Application__. Applications may publish (provide) data to, and/or require (consume) data from, DataExchange.
 
 __Deployments__ represent an installation (use) of a product within an organisation, and as such forms the basis for a legal relationship defined in data sharing agreements.
 
